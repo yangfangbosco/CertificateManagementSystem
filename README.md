@@ -13,7 +13,7 @@ A resume is a very important component for employers to evaluate applicants for 
 # System Design
 The system is implemented in JAVA as well as Javascript. Both versions have the same functionality. In this document, we will focus on the JAVA implementation. The link to python version is : https://github.com/thivyavignesh/iota_achievement_endorsement
 
-There are 2 major parties in the system.
+There are 2 major parties in the system.<br>
 Certificater: Certificaters are verified educational institutions and trustful companies. They are able to verify certificates for students or employees as provements of achievements. For example, educational institutions like USC can verify students degree with our system and the verification will be stored on the chain where no one can modify it. However, certificaters also have the ability to revoke any certificate as well by making a new note on the chain.
 
 Certificatee: Certificatees can receive verification through our system and the verification will be shown on the chain. Thus, certificatees can share their public address with others which will link to all the verification he received.
